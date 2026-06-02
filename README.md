@@ -311,7 +311,7 @@ git commit -m "Initial Commit - Ultimate DSA Placement Sheet"
 
 git branch -M main
 
-git remote add origin https://github.com/nirmaltodwal7/ultimate-dsa-placement-sheet.git
+git remote add origin https://github.com/nirmaltodwal7/Roadmaps-Resource-Overview.git
 
 git push -u origin main
 ```
